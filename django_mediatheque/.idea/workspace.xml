@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e6e41d8-42cc-4b95-ba68-9b66c58cd74e" name="Changes" comment="" />
+    <list default="true" id="7e6e41d8-42cc-4b95-ba68-9b66c58cd74e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application_bibliothecaire/templates/application/application_bibliothecaire.html" beforeDir="false" afterPath="$PROJECT_DIR$/application_bibliothecaire/templates/application/application_bibliothecaire.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application_bibliothecaire/templates/application/connexion.html" beforeDir="false" afterPath="$PROJECT_DIR$/application_bibliothecaire/templates/application/connexion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,9 +23,12 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2lqXZISg6QFurygUyvY5Le5vFKi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,6 +38,7 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/delminidhar/Venvi_V6/project_mediatheque/django_mediatheque"
   }
 }]]></component>
